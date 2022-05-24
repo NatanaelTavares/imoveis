@@ -1,0 +1,12 @@
+[
+  {
+    "bairro": Centro,
+    "mensalidade": "500,00",
+    "imagem": "assets/images/casa2.jpg",
+  },
+  {
+    "bairro": Martins,
+    "mensalidade": "1500,00",
+    "imagem": "assets/images/casa4.jpg",
+  },
+]

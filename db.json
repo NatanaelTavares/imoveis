@@ -1,4 +1,5 @@
-[
+{
+  "anuncios": [
   {
     "bairro": "Centro",
     "mensalidade": "500,00",
@@ -10,3 +11,4 @@
     "imagem": "assets/images/casa4.jpg"
   }
 ]
+}

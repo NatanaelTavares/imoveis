@@ -1,14 +1,51 @@
 {
   "anuncios": [
   {
-    "bairro": "Centro",
+    "bairro": "Canaã",
     "mensalidade": "500,00",
+    "imagem": "assets/images/casa1.jpg"
+  },
+  {
+    "bairro": "Umuarama",
+    "mensalidade": "600,00",
     "imagem": "assets/images/casa2.jpg"
   },
   {
+    "bairro": "Tubalina",
+    "mensalidade": "800,00",
+    "imagem": "assets/images/casa3.jpg"
+  },
+  {
     "bairro": "Martins",
-    "mensalidade": "1500,00",
+    "mensalidade": "900,00",
     "imagem": "assets/images/casa4.jpg"
+  },
+  {
+    "bairro": "Centro",
+    "mensalidade": "1500,00",
+    "imagem": "assets/images/casa5.jpg"
+  },
+  {
+    "bairro": "Centro",
+    "mensalidade": "1600,00",
+    "imagem": "assets/images/casa6.jpg"
+  }
+],
+  "favoritos": [
+  {
+    "bairro": "Centro",
+    "mensalidade": "1700,00",
+    "imagem": "assets/images/casa7.jpg"
+  },
+    {
+    "bairro": "Centro",
+    "mensalidade": "1750,00",
+    "imagem": "assets/images/casa8.jpg"
+  },
+    {
+    "bairro": "Centro",
+    "mensalidade": "1900,00",
+    "imagem": "assets/images/casa9.jpg"
   }
 ]
 }
